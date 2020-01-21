@@ -1,0 +1,12 @@
+{
+	"manifest_version": 2,
+	"name": "Redress",
+	"description": "Nudges people to pay living wages to garment workers",
+	"version": "0.0.1",
+	"icons":{"128":"assets/icons/placeholder.png"},
+	"browser_action": {
+		"default_icon": "assets/icons/placeholder.png",
+		"default_popup": "popup.html"
+	},
+	"permissions": ["activeTab"]
+}
